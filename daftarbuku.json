@@ -1,4 +1,5 @@
-[{ "id": "bk001", "judul":"Daughter of the deep", "penulis": "Rick Riordan", "tahun": "2021", "photo_url": "https://picsum.photos/50"}, 
+[
+    { "id": "bk001", "judul":"Daughter of the deep", "penulis": "Rick Riordan", "tahun": "2021", "photo_url": "https://picsum.photos/50"}, 
     { "id": "bk002", "judul":"Semua Bisa Menjadi Programmer Laravel Basic", "penulis": "Yuniar Supardi, Sulaeman", "tahun": "2019", "photo_url": "https://picsum.photos/50"},
     { "id": "bk003", "judul":"Dear Nathan", "penulis": "Erisca Febriani", "tahun": "2016", "photo_url": "https://picsum.photos/50"},
     { "id": "bk004", "judul":"Harry Potter and the Philosopher's Stone", "penulis": "J.K. Rowling", "tahun": "1997", "photo_url": "https://picsum.photos/50"},
