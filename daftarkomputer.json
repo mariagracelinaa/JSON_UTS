@@ -1,0 +1,14 @@
+[
+    {"id":"k001", "nama":"Komputer 1", "lokasi":"Perpustakaan Tenggilis"},
+    {"id":"k002", "nama":"Komputer 2", "lokasi":"Perpustakaan Tenggilis"},
+    {"id":"k003", "nama":"Komputer 3", "lokasi":"Perpustakaan Tenggilis"},
+    {"id":"k004", "nama":"Komputer 4", "lokasi":"Perpustakaan Tenggilis"},
+    {"id":"k005", "nama":"Komputer 5", "lokasi":"Perpustakaan Tenggilis"},
+    {"id":"k006", "nama":"Komputer 6", "lokasi":"Perpustakaan Tenggilis"},
+    {"id":"k007", "nama":"Komputer 7", "lokasi":"Perpustakaan Tenggilis"},
+    {"id":"k008", "nama":"Komputer 1 NG", "lokasi":"Perpustakaan Ngagel"},
+    {"id":"k009", "nama":"Komputer 2 NG", "lokasi":"Perpustakaan Ngagel"},
+    {"id":"k010", "nama":"Komputer 3 NG", "lokasi":"Perpustakaan Ngagel"},
+    {"id":"k011", "nama":"Komputer 4 NG", "lokasi":"Perpustakaan Ngagel"},
+    {"id":"k012", "nama":"Komputer 5 NG", "lokasi":"Perpustakaan Ngagel"}
+]
